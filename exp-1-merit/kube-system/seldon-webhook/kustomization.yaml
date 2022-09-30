@@ -1,0 +1,3 @@
+resources:
+- role_webhook.yaml
+- rolebinding_webhook.yaml
